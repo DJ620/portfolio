@@ -1,6 +1,7 @@
 body {
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png");
     padding-top: 100px;
+    position: relative;
 }
 
 .smaller {
@@ -10,4 +11,8 @@ body {
 
 .smaller:hover {
     transform: scale(1.1);
+}
+
+#sticky-footer {
+    flex-shrink: 0;
 }
