@@ -40,3 +40,7 @@ main {
     height: 50px;
     width: auto;
 }
+
+.spaced {
+    letter-spacing: .5em;
+}
