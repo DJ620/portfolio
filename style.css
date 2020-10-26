@@ -14,6 +14,10 @@ header {
     font-family: 'Lobster', cursive;
 }
 
+.index {
+    margin-bottom: 18vh;
+}
+
 main {
     padding-top: 100px;
     position: relative;
