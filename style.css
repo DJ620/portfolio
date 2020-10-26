@@ -27,6 +27,10 @@ main {
     background-color: #3b0404;
 }
 
+.project:hover {
+    transform: scale(1.025);
+}
+
 .icon:hover {
     transform: scale(1.1);
 }
