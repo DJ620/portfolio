@@ -9,6 +9,10 @@ body {
     position: relative;
 }
 
+.bg-maroon {
+    background-color: #3b0404;
+}
+
 .icon:hover {
     transform: scale(1.1);
 }
