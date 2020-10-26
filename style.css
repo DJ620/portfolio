@@ -5,6 +5,16 @@ html {
 
 body {
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png");
+    font-family: 'Prompt', sans-serif;
+}
+
+header {
+    background: linear-gradient(0deg, #3b0404, black);
+    height: 100vh;
+    font-family: 'Lobster', cursive;
+}
+
+main {
     padding-top: 100px;
     position: relative;
 }
