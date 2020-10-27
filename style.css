@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png");
+    background-image: url("https://cdn02.plentymarkets.com/epz0zx1qug71/item/images/181476/full/Vliestapete-Putz-Vintage-anthrazit-metallic-Marbur.jpg");
     font-family: 'Prompt', sans-serif;
 }
 
@@ -23,8 +23,16 @@ main {
     position: relative;
 }
 
+.text-maroon {
+    color: #3b0404;
+}
+
 .bg-maroon {
     background: linear-gradient(180deg, #3b0404, #222222);
+}
+
+.bg-info {
+    background: linear-gradient(360deg, #333333, #5bc0de)
 }
 
 .project:hover {
