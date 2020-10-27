@@ -24,7 +24,7 @@ main {
 }
 
 .bg-maroon {
-    background-color: #3b0404;
+    background: linear-gradient(180deg, #3b0404, #222222);
 }
 
 .project:hover {
