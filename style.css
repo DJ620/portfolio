@@ -12,6 +12,16 @@ header {
     background: linear-gradient(0deg, #3b0404, black);
     height: 100vh;
     font-family: 'Lobster', cursive;
+    text-shadow: 1px 1px 1px #222,
+                 5px 5px 8px #5bc0de,
+                 1px 1px 5px white;
+
+}
+
+.text-gradient {
+    background: -webkit-linear-gradient(#5bc0de, #333333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .index {
@@ -25,6 +35,12 @@ main {
 
 .text-maroon {
     color: #3b0404;
+}
+
+.maroon-gradient {
+    background: -webkit-linear-gradient(#111111, maroon);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .bg-maroon {
