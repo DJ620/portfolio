@@ -16,6 +16,10 @@ My landing welcome section:
 
 ![landing page screenshot](landing-page.png)
 
+My about me page:
+
+![about me page screenshot](about-me-page.png)
+
 My portfolio page:
 
 ![portfolio page screenshot](portfolio-page.png)
