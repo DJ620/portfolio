@@ -6,6 +6,24 @@ This is a webpage designed to be the home of all the work I will accomplish in t
 
 I want to use this portfolio to potentially gain employment within the web development field.
 
+## Link
+
+https://dj620.github.io/portfolio/
+
+## Screenshots
+
+My landing welcome section:
+
+![landing page screenshot](landing-page.png)
+
+My portfolio page:
+
+![portfolio page screenshot](portfolio-page.png)
+
+My contact page:
+
+![contact page screenshot](contact-page.png)
+
 ## Credits
 
 First, I must credit the UCLA Extension Full-Stack Web Development Coding Bootcamp, Bryan Swarthout, and Wilson Lam for introducing me to the resources I utilized in making my portfolio.
